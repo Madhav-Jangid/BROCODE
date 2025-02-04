@@ -15,9 +15,6 @@ BROCODE is a toy programming language designed to bring Hindi-style syntax to pr
 - [DOM Integration](#how-to-setup-dom-with-brocode)
 - [Features](#features)
 - [See BROCODE in Action](#see-what-brocode-can-do)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 
 
